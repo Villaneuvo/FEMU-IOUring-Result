@@ -315,7 +315,7 @@ Disk stats (read/write):
 ```
 
 ### Plotting Result 
-<img src="https://res.cloudinary.com/dkcur9nvf/image/upload/v1680070529/Research/IOUring/BW/write/256/Artboard_4_reahkd.png" alt="write-bs256-32" width="600"/>
+<img src="https://res.cloudinary.com/dkcur9nvf/image/upload/v1680070529/Research/IOUring/BW/write/256/Artboard_7_copy_2_xd6ov4.png" alt="write-bs256-32" width="600"/>
 <br><br>
 
 # BlockSize=512k
