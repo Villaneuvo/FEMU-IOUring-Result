@@ -1,4 +1,4 @@
-# Randwrite Plotting Result
+# Write Plotting Result
 
 For write Operation I've been running using configuration below here :
 ```

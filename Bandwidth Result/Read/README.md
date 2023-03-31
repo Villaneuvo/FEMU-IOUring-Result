@@ -1,4 +1,4 @@
-# Randread Plotting Result
+# Read Plotting Result
 
 For Read Operation I've been running using configuration below here :
 ```
